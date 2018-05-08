@@ -22,5 +22,5 @@
   - [Discussion6](./Discussion/Discussion6.pdf)
 - [Design Prototype](./page2.md)
 - [Database Design](./database_er.pdf)
-- [Demand Instruction](./Demand_Instruction.pdf)
+- [Demand Instruction](./Demand_Instruction.md)
 
