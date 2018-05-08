@@ -12,7 +12,7 @@
 - 1511123 樊文杰
 
 # Necessary Links
-- Disccuion in meetings
+- Discussion in meetings
   - [Discussion1](./Discussion/Discussion1.pdf)
   - [Discussion2](./Discussion/Discussion2.pdf)
   - [Discussion3](./Discussion/Discussion3.pdf)
