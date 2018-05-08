@@ -7,9 +7,9 @@
 # Group Member:
 
 - 1511447 唐鹏森
-- 1511125 严骅
-- 1511123 刘奕伶
-- 1511123 樊文杰
+- 1511466 严骅
+- 1511494 刘奕伶
+- 1511415 樊文杰
 
 # Necessary Links
 - Discussion in meetings
@@ -19,7 +19,7 @@
   - [Discussion4](./Discussion/Discussion4.pdf)
   - [Discussion5](./Discussion/Discussion5.pdf)
   - [Discussion6](./Discussion/Discussion6.pdf)
-- [Design Prototype](./page2.md)
+- [Design Prototype](https://pro.modao.cc/app/ATSM7sXSoGK7YJUh17IUUl21JdopZqM)
 - [Database Design](./database_er.pdf)
 - [Demand Instruction](./Demand_Instruction.md)
 
