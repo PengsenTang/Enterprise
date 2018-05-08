@@ -14,12 +14,12 @@
 # Necessary Links
 
 - Disccuion in meetings
-  - [Discussion1](./Discussion/Discussion1)
-  - [Discussion2](./Discussion/Discussion2)
-  - [Discussion3](./Discussion/Discussion3)
-  - [Discussion4](./Discussion/Discussion4)
-  - [Discussion5](./Discussion/Discussion5)
-  - [Discussion6](./Discussion/Discussion6)
+  - [Discussion1](./Discussion/Discussion1.pdf)
+  - [Discussion2](./Discussion/Discussion2.pdf)
+  - [Discussion3](./Discussion/Discussion3.pdf)
+  - [Discussion4](./Discussion/Discussion4.pdf)
+  - [Discussion5](./Discussion/Discussion5.pdf)
+  - [Discussion6](./Discussion/Discussion6.pdf)
 - [Design Prototype](./page2.md)
 - [Database Design](./database_er.pdf)
 - [Demand Instruction](./Demand_Instruction.pdf)
