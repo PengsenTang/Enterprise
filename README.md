@@ -21,5 +21,5 @@
   - [Discussion6](./Discussion/Discussion6.pdf)
 - [Design Prototype](https://pro.modao.cc/app/ATSM7sXSoGK7YJUh17IUUl21JdopZqM)
 - [Database Design](./database_er.pdf)
-- [Demand Instruction](./Demand_Instruction.md)
+- [Requirement Instruction](./Demand_Instruction.md)
 
