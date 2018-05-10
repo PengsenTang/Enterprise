@@ -1,4 +1,4 @@
-# A Enterprise App supported by Ha's Group.
+# An Enterprise App supported by Ha's Group.
 
 # Group Name:
 
